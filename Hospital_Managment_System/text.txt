@@ -1,0 +1,8 @@
+🔹 6. Quantum + Blockchain / IoT / AI (Interdisciplinary)
+1️⃣4️⃣ Quantum-Secure Blockchain Architecture
+
+Analyze blockchain security in quantum era
+
+Propose quantum-safe transaction models
+
+📌 Emerging interdisciplinary research
